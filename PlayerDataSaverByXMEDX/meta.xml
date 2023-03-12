@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <info name="Player Data Saver" author="XMEDX" version="1.0.0" />
+    <script src="playerdata.lua" />
+    <script src="playerdataC.lua" />
+</resource>
